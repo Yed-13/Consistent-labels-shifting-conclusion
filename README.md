@@ -33,5 +33,3 @@ The filtering analysis is descriptive and post hoc. It reports complete/unanimou
 ## Source and scope
 
 Reference labels and identifiers originate from [SemEval-2016 Task 6](https://www.saifmohammad.com/WebPages/StanceDataset.htm), described by [Mohammad et al. (2016)](https://doi.org/10.18653/v1/S16-1003). Obtain source post text from its creators and follow their terms. Hashes preserve record integrity and provenance. This historical benchmark is not a population survey; intervals are pointwise and there is no new independent human adjudication.
-
-This repository is private. No license is assigned on behalf of the authors; third-party materials retain their own terms.
